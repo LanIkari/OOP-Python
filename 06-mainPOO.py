@@ -46,7 +46,5 @@ def main():
     # Python create a new atribute, but the original atribute is still encapsulated
     al1.__edad=333
     print (al1.__edad)
-    print(vars(al1))
-
-
+    print(vars(al1)) 
 main()
