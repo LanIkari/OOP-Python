@@ -21,7 +21,7 @@ Repositorio para los ejercicios, ejemplos y problemas del curso Intersemestral d
 
 <p align="center">
   <a href="https://lanikari.github.io/BrandonAV-Portfolio/" target="_blank">
-  <img width="100px" src="https://github.com/LanIkari/BrandonAV-Portfolio/assets/42923366/34be7609-805c-4b8a-9f72-21315cdaa13a" alt="Brandon-Portfolio" />
+  <img width="100px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/42923366/245333869-34be7609-805c-4b8a-9f72-21315cdaa13a.png" alt="Brandon-Portfolio" />
   </a>
   <br />
   <i><sub>Designed & Built by Brandon Avendaño Villegas</sub></i>
