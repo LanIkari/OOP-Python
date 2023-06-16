@@ -30,7 +30,6 @@ class Libro:
     def libro_planeta(cls,titulo,autor,año):
         return cls(titulo,autor,año,"Planeta")
 
-
 class Autor:
     # Constructor
     def __init__(self,nom,pseudo):
