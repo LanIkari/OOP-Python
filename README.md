@@ -1,5 +1,5 @@
 
-<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos_Python/assets/42923366/ded298a6-f762-4d8e-9c82-33ae21650e8c" alt="Banner"></img></a>
+<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/42923366/245337194-ded298a6-f762-4d8e-9c82-33ae21650e8c.png" alt="Banner"></img></a>
 
 Repositorio para los ejercicios, ejemplos y problemas del curso Intersemestral de Programación orientada a Objetos en Python de la FES Aragon
 
