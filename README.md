@@ -1,19 +1,20 @@
 
 <a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos_Python/assets/42923366/ded298a6-f762-4d8e-9c82-33ae21650e8c" alt="Banner"></img></a>
 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+ ![NumPy](https://img.shields.io/badge/StarUML-%23013243.svg?style=for-the-badge&logo=uml&logoColor=white) 
+ ![VS Code](https://img.shields.io/badge/visual_studio_code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+ ![Licence_MIT](https://img.shields.io/badge/Licence_MIT-6D1ED4.svg?style=for-the-badge&logo=sourcehut&logoColor=white)
+![Open_Source](https://img.shields.io/badge/Open_source-%23000000.svg?style=for-the-badge&logo=githubsponsors&logoColor=E71D29)
+
 Repositorio para los ejercicios, ejemplos y problemas del curso Intersemestral de Programación orientada a Objetos en Python de la FES Aragon
-
-## 🛠️ Construido con
-
-* Python 🐍
-* StarUML ✨
 
 ## 📜 Constancia
 
 <div align="center">
-<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" width="200" height="" src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos_Python/assets/42923366/1a736eda-83c1-440d-9975-1f828d0d09da" style="margin-top:20px" alt="Constancia"/></a>
+<a href="https://drive.google.com/file/d/1PcVEPqCC8n7INJ5rxq548OD-QF-bUqui/view?usp=sharing" target="_blank"><img aling="center" width="350" height="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/42923366/257649837-4ff3f9a4-1859-4a79-9f00-a05bc13b12a1.png" style="margin-top:20px" alt="Constancia"/></a>
 
-<b><sub>⚒️ Under construction ⚒️</sub></b>
+<b ><sub >👾 Completed 👾</sub></b>
 
 </div>
 
