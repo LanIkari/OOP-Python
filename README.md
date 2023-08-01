@@ -1,5 +1,5 @@
 
-<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" src="https://github.com/LanIkari/Programacion_Orientada_a_Objetos_Python/assets/42923366/ded298a6-f762-4d8e-9c82-33ae21650e8c" alt="Banner"></img></a>
+<a href="https://www.aragon.unam.mx/fes-aragon/#!/inicio" target="_blank"><img aling="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/42923366/245337194-ded298a6-f762-4d8e-9c82-33ae21650e8c.png" alt="Banner"></img></a>
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![NumPy](https://img.shields.io/badge/StarUML-%23013243.svg?style=for-the-badge&logo=uml&logoColor=white) 
